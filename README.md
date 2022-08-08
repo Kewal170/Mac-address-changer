@@ -6,8 +6,6 @@ Syntax:-
 Usage: mac_changer.py [options]
 
 Options:
-  -h, --help            show this help message and exit
-  -i INTERFACE, --interface=INTERFACE
-                        Interface to change its mac address
-  -m MAC_ADDR, --mac-addr=MAC_ADDR
-                        New Mac address for Interface
+-h, --help                                   show this help message and exit
+-i INTERFACE, --interface=INTERFACE          Interface to change its mac address
+-m MAC_ADDR, --mac-addr=MAC_ADDR             New Mac address for Interface
